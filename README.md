@@ -17,7 +17,8 @@
 ![给它权限](https://user-images.githubusercontent.com/41233085/112150059-a1694080-8c1a-11eb-9ae1-b10b8dca6956.png)
 >
 > ### 2、在`Auto.js`内导入脚本文件，刷新（从上往下滑动，然后松开）<br>
-> ![导入](https://user-images.githubusercontent.com/41233085/112150470-19376b00-8c1b-11eb-8d52-08eac664c30c.jpg)
+>![导入2](https://user-images.githubusercontent.com/41233085/112151030-b7c3cc00-8c1b-11eb-93bc-4d1cd856bdbc.png)
+
 >
 > ### 3、在手机`内部存储`创建`mrfz`文件夹（和`Android`同一级） <br>
 > ![mrfz文件夹](https://user-images.githubusercontent.com/41233085/111990518-4bc76200-8b4e-11eb-9f23-199f1718d1cb.png)
