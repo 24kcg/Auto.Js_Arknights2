@@ -20,10 +20,9 @@
 >![导入2](https://user-images.githubusercontent.com/41233085/112151030-b7c3cc00-8c1b-11eb-93bc-4d1cd856bdbc.png)
 
 >
-> ### 3、在手机`内部存储`创建`mrfz`文件夹（和`Android`同一级） <br>
+> ### 3、在手机`内部存储`创建`mrfz`文件夹（和`Android`同一级），然后将`mrfz.rar`解压到`mrfz`文件夹内 <br>
 > ![mrfz文件夹](https://user-images.githubusercontent.com/41233085/111990518-4bc76200-8b4e-11eb-9f23-199f1718d1cb.png)
 >
-> ### 4、将`mrfz.rar`解压到`mrfz`文件夹内 <br>
 ****
 ![AutoJs截图权限](https://user-images.githubusercontent.com/41233085/111989024-318c8480-8b4c-11eb-82f5-29e2e31bef92.png)
 
