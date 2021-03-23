@@ -16,7 +16,7 @@
 > Auto.js安装后，给它`无障碍权限`和`悬浮窗权限`<br>
 ![给它权限](https://user-images.githubusercontent.com/41233085/112150059-a1694080-8c1a-11eb-9ae1-b10b8dca6956.png)
 >
-> ### 2、在`Auto.js`内导入脚本文件，刷新（从上往下滑动，然后松开）<br>
+> ### 2、在`Auto.js`内导入脚本文件（在蓝奏云下载的需要先解压），刷新（从上往下滑动，然后松开）<br>
 >![导入2](https://user-images.githubusercontent.com/41233085/112151030-b7c3cc00-8c1b-11eb-93bc-4d1cd856bdbc.png)
 
 >
