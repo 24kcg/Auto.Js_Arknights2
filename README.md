@@ -28,3 +28,14 @@
 ![AutoJs截图权限](https://user-images.githubusercontent.com/41233085/111989024-318c8480-8b4c-11eb-82f5-29e2e31bef92.png)
 
 提示： OPPO/vivo 的机型可能用不了（用一部oppo，一部vivo 测试过，会高频率关闭 Auto.js）
+****
+
+SideStory「生于黑夜」复刻（活动追加脚本）<br>
+https://wws.lanzous.com/b01i74irg <br>
+密码:fqqv <br>
+在“公告/签到 ... ... 领取任务”的基础上加了 作战（`DM-7` 扭转醇）<br>
+之前下载过图片的话这次只需要将`生于黑夜_补充图片`解压到`mrfz`文件夹内（其实也就加了3张图片`生于黑夜`、`阵中往事`、`7`）
+-------------
+生于黑夜_0.2.5(无换班  ➤  脚本文件<br>
+darkNights  ➤  脚本所需的全部图片<br>
+
